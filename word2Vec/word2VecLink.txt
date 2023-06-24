@@ -1,0 +1,3 @@
+http://nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc
+
+http://143.107.183.175:22980/download.php?file=embeddings/word2vec/cbow_s50.zip
